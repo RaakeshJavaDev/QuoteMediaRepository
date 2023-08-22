@@ -1,0 +1,7 @@
+com/quotemedia/interview/quoteservice/api/model/QuoteEntity.class
+com/quotemedia/interview/quoteservice/api/service/QuoteService.class
+com/quotemedia/interview/quoteservice/api/Configuration/SecurityConfig.class
+com/quotemedia/interview/quoteservice/api/model/QuotePrimeKey.class
+com/quotemedia/interview/quoteservice/api/controller/QuoteController.class
+com/quotemedia/interview/quoteservice/api/Repository/QuoteRepository.class
+com/quotemedia/interview/quoteservice/QuoteApplication.class
